@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "moo0sfggVzdMUEP9E7LL+tGp2ndCsR7invhUWSXLCcG69UjPPhvGIZYHyswWPiu6KEZNN+9u+UUoK3SEgktYEw==",
+  "dgSpecHash": "UprejF0NFVMnpkSI4mzX+Rv4aYC7Oh6LmQnwm0EOAWjElVnDbJ10t2ASzb2BtIVV3hnCgHgdDYNNqpZDVzCgiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jepga\\Downloads\\2nd Year 3rd term\\IT128L\\le2\\GallineraLE2\\BlogTestUI\\BlogTestUI.csproj",
+  "projectFilePath": "C:\\Users\\jepga\\Desktop\\LE2\\GallineraLE5\\GallineraLE2\\BlogTestUI\\BlogTestUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jepga\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\jepga\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

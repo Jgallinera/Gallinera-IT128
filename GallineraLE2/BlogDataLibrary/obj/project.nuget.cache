@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zB74jLuD5/1p2hlee7lsioAPqPRLBIvUzxH1D+8gMyWrB5G6P18YD+tPWzJAd3Jbh4TdKqJiOd5xoA8IABpzKQ==",
+  "dgSpecHash": "Itm4exD4puEQN9PUhjJTq25KHDdTQfpJS+UI3yCXKuLni0Uk2i3jhS4s+zSiPEYtJbSIiPHrURks+71fpHyTaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jepga\\Downloads\\2nd Year 3rd term\\IT128L\\le2\\GallineraLE2\\BlogDataLibrary\\BlogDataLibrary.csproj",
+  "projectFilePath": "C:\\Users\\jepga\\Desktop\\LE2\\GallineraLE5\\GallineraLE2\\BlogDataLibrary\\BlogDataLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jepga\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\jepga\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

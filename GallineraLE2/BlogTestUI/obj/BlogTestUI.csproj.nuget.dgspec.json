@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jepga\\Downloads\\2nd Year 3rd term\\IT128L\\le2\\GallineraLE2\\BlogTestUI\\BlogTestUI.csproj": {}
+    "C:\\Users\\jepga\\Desktop\\LE2\\GallineraLE5\\GallineraLE2\\BlogTestUI\\BlogTestUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jepga\\Downloads\\2nd Year 3rd term\\IT128L\\le2\\GallineraLE2\\BlogTestUI\\BlogTestUI.csproj": {
+    "C:\\Users\\jepga\\Desktop\\LE2\\GallineraLE5\\GallineraLE2\\BlogTestUI\\BlogTestUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jepga\\Downloads\\2nd Year 3rd term\\IT128L\\le2\\GallineraLE2\\BlogTestUI\\BlogTestUI.csproj",
+        "projectUniqueName": "C:\\Users\\jepga\\Desktop\\LE2\\GallineraLE5\\GallineraLE2\\BlogTestUI\\BlogTestUI.csproj",
         "projectName": "BlogTestUI",
-        "projectPath": "C:\\Users\\jepga\\Downloads\\2nd Year 3rd term\\IT128L\\le2\\GallineraLE2\\BlogTestUI\\BlogTestUI.csproj",
+        "projectPath": "C:\\Users\\jepga\\Desktop\\LE2\\GallineraLE5\\GallineraLE2\\BlogTestUI\\BlogTestUI.csproj",
         "packagesPath": "C:\\Users\\jepga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jepga\\Downloads\\2nd Year 3rd term\\IT128L\\le2\\GallineraLE2\\BlogTestUI\\obj\\",
+        "outputPath": "C:\\Users\\jepga\\Desktop\\LE2\\GallineraLE5\\GallineraLE2\\BlogTestUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jepga\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
